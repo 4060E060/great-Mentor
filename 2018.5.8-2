@@ -30,4 +30,4 @@ void ShowIndex()
 	cout << "Index is :" << iIndex << endl;
 }
 ```
-![result](picture/2.PNG)
+![result](operation/02.png)
